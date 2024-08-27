@@ -217,6 +217,11 @@ nav a:hover {
     font-size: 34px;
 }
 
+.img-produtos{
+    width: 250px;
+    height: 250px;
+}
+
 /* CCS do rodapé de todas as paginas */
 footer {
     text-align: center;
